@@ -3,4 +3,4 @@
 
 ![image text](https://github.com/gzhutaishuai/Simple-Tower/blob/main/%E4%B8%BB%E8%8F%9C%E5%8D%95.png)
 
-![image text]()
+![image text](https://github.com/gzhutaishuai/Simple-Tower/blob/main/%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.png)
